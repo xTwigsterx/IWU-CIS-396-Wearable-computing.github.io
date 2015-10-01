@@ -9,9 +9,10 @@ url: "http://iwu-cis-396-wearable-computing.github.io/" # the base hostname & pr
 twitter: dkneuma
 github:  dkneuma
 
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
-gems: jemoji
+gems:
+  - jemoji
 paginate: 5
 permalink: /:title
 
