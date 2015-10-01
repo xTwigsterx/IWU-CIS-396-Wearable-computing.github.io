@@ -10,3 +10,5 @@ github_username:  dkneuma
 
 # Build settings
 markdown: kramdown
+gems:
+  - jemoji
