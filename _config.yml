@@ -1,0 +1,12 @@
+# Site settings
+title: Wearable Computing Blog
+email: daniel.neumann@indwes.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This is a blog detailing out the various tutorials for the various repositories in this organization.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://iwu-cis-396-wearable-computing.github.io/" # the base hostname & protocol for your site
+twitter_username: dkneuma
+github_username:  dkneuma
+
+# Build settings
+markdown: kramdown
